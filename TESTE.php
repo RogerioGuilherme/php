@@ -1,6 +1,5 @@
+<<<<<<< HEAD
 <?php
 
-  echo "Hello World!";
-
-  echo "Teste mais avançado";
+  echo "Olá Mundo!";
 
